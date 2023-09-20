@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Logout</name>
+   <tag></tag>
+   <elementGuidId>5797b3d5-9055-46d4-9f8d-eb66853ab79f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(5) > div.MuiBox-root.mui-style-14gzejn > li.MuiListItem-root.MuiListItem-gutters.mui-style-qo6a9o > div.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.MuiListItemButton-root.MuiListItemButton-gutters.mui-style-c8hcne > div.MuiListItemText-root.mui-style-1wi22wg > span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.mui-style-rk6eu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='account-menu']/div[3]/ul/a[5]/div/li/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5e8e54aa-b4c1-40cd-9106-c0ef9c2111da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-rk6eu</value>
+      <webElementGuid>744fc167-17c7-4ade-a834-d197c2a01ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>5d50c8bf-4a99-4511-a1b1-ae5d2e57bbc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account-menu&quot;)/div[@class=&quot;MuiPaper-root MuiMenu-paper MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper mui-style-1ju8zyx&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list mui-style-r8u8y9&quot;]/a[5]/div[@class=&quot;MuiBox-root mui-style-14gzejn&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters mui-style-qo6a9o&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters mui-style-c8hcne&quot;]/div[@class=&quot;MuiListItemText-root mui-style-1wi22wg&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-rk6eu&quot;]</value>
+      <webElementGuid>81e49fa6-00f3-4a81-8bd9-b6b51b79d453</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='account-menu']/div[3]/ul/a[5]/div/li/div/div[2]/span</value>
+      <webElementGuid>6d2f0b80-ae92-4a6b-9e0b-5eb1adf9ddaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help Centre'])[1]/following::span[2]</value>
+      <webElementGuid>0983a616-c59d-413c-8031-2956b555bd4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[2]/following::span[4]</value>
+      <webElementGuid>d2c9bfa4-952f-435e-b04f-d7a84bc20d7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>7af0758d-8fb5-4173-9f86-e6b74bba0e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/div/li/div/div[2]/span</value>
+      <webElementGuid>b51b8160-09eb-460b-b1da-7b398b6dcb40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>f3b930d6-e806-47be-91cd-d9b907d214f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

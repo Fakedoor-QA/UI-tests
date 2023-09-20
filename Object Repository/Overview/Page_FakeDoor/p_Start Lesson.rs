@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Start Lesson</name>
+   <tag></tag>
+   <elementGuidId>ee7a8145-9e9f-4dc3-943e-94f76fcab1dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.mui-style-is4yp5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/main/div/div[3]/div/div/div/div/a/button/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>884a70d4-b8f7-40a8-a0f4-6bd2f5400955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 mui-style-is4yp5</value>
+      <webElementGuid>45b43ffa-84bb-4c78-bd46-a6bc8210304a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start Lesson</value>
+      <webElementGuid>da0124cf-45c8-4fd5-9366-ed93e95fb217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root mui-style-4qr3bj&quot;]/main[@class=&quot;MuiBox-root mui-style-1o3zpnq&quot;]/div[@class=&quot;MuiBox-root mui-style-yzfxkv&quot;]/div[@class=&quot;MuiBox-root mui-style-1xhj18k&quot;]/div[@class=&quot;MuiBox-root mui-style-6yc624&quot;]/div[@class=&quot;MuiBox-root mui-style-d1gelk&quot;]/div[@class=&quot;MuiBox-root mui-style-ti6v05&quot;]/div[@class=&quot;MuiBox-root mui-style-144eety&quot;]/a[1]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium mui-style-4vbwty&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 mui-style-is4yp5&quot;]</value>
+      <webElementGuid>2788af07-40fd-4cc3-9f50-fe2d32f2bc01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/div[3]/div/div/div/div/a/button/p</value>
+      <webElementGuid>3121adf2-4c12-4334-8f09-92a3d4c12a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::p[32]</value>
+      <webElementGuid>ee397b02-dbc4-42eb-89e3-89dea44d7aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tests'])[1]/following::p[32]</value>
+      <webElementGuid>06258926-da91-420f-9d80-80a477f38136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start Lesson']/parent::*</value>
+      <webElementGuid>b1f0beb1-f666-43de-99ad-5068f90a8f5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/p</value>
+      <webElementGuid>3691c381-f6bf-4739-98bb-59313a298ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Start Lesson' or . = 'Start Lesson')]</value>
+      <webElementGuid>883e349f-50cc-4350-bb45-288408caca8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

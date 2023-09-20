@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>5790923a-2e85-454c-865f-b4f7d65689d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div/div/div[5]/a/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>11651395-dd90-4e8d-8d9c-ad93422c603e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root mui-style-1f4e7rj</value>
+      <webElementGuid>ec231c8b-fd8a-44d6-9718-4bc4cfc8e3a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/force.svg</value>
+      <webElementGuid>97681b86-5dcf-4fd6-8337-56dcaf989e6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>topic image</value>
+      <webElementGuid>4e69737a-7c41-45ae-b639-f0b6c95d49ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;MuiBox-root mui-style-s8mne9&quot;]/div[@class=&quot;MuiBox-root mui-style-1lu2w1e&quot;]/div[@class=&quot;MuiBox-root mui-style-1u9r2as&quot;]/div[@class=&quot;MuiBox-root mui-style-180cis9&quot;]/div[@class=&quot;MuiBox-root mui-style-35p3gl&quot;]/a[1]/div[@class=&quot;MuiBox-root mui-style-gg4vpm&quot;]/div[@class=&quot;MuiBox-root mui-style-1w1vbxm&quot;]/img[@class=&quot;MuiBox-root mui-style-1f4e7rj&quot;]</value>
+      <webElementGuid>b061281c-9cef-4185-939e-75655a3ed63d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div/div[5]/a/div/div/img</value>
+      <webElementGuid>10b19579-30fa-4951-9f64-4a35c4f39f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='topic image'])[5]</value>
+      <webElementGuid>0b1f91f7-02e8-439d-b574-92548b1fb5e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/div/div/img</value>
+      <webElementGuid>c236aee5-fab4-4e75-a56c-7ce4b270b31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/force.svg' and @alt = 'topic image']</value>
+      <webElementGuid>12d6df37-e8b9-44e6-beeb-832f16b584e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

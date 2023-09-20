@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Back_MuiBox-root mui-style-1f4e7rj</name>
+   <tag></tag>
+   <elementGuidId>e6964d47-900d-40d1-9f4d-4a02d523d4fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.MuiBox-root.mui-style-1f4e7rj</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div/div/div/a/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>07504d44-b044-4943-9569-8dd87847f4c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root mui-style-1f4e7rj</value>
+      <webElementGuid>7bb42a39-a7be-4d00-9cdf-d4da42b39563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/energy.svg</value>
+      <webElementGuid>776cb69c-5fed-4172-9e21-a64c5370727f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>topic image</value>
+      <webElementGuid>2ca1bf85-927c-4397-884e-e3fac9bf4a6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;MuiBox-root mui-style-s8mne9&quot;]/div[@class=&quot;MuiBox-root mui-style-1lu2w1e&quot;]/div[@class=&quot;MuiBox-root mui-style-1u9r2as&quot;]/div[@class=&quot;MuiBox-root mui-style-180cis9&quot;]/div[@class=&quot;MuiBox-root mui-style-35p3gl&quot;]/a[1]/div[@class=&quot;MuiBox-root mui-style-gg4vpm&quot;]/div[@class=&quot;MuiBox-root mui-style-1w1vbxm&quot;]/img[@class=&quot;MuiBox-root mui-style-1f4e7rj&quot;]</value>
+      <webElementGuid>e60fc381-2c9b-43a0-9ba2-809a9c46091c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div/div/a/div/div/img</value>
+      <webElementGuid>db3cb961-d143-4183-bc9f-ebe8b2a54dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='topic image']</value>
+      <webElementGuid>9a98b4bd-d6db-46ac-a715-e8e54e7c1797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/img</value>
+      <webElementGuid>d0646f15-90cc-46e1-a7ff-2291fb2eed7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/energy.svg' and @alt = 'topic image']</value>
+      <webElementGuid>d2c3609a-0b06-40a4-9b08-08ee9876d697</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
