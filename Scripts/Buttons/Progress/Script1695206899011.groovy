@@ -17,3 +17,63 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://delightful-stone-07bb55f0f.3.azurestaticapps.net/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/button_Sign In'))
+
+WebUI.setText(findTestObject('Object Repository/Progress/Page_FakeDoor/input_User Name_username'), 'admin2')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Progress/Page_FakeDoor/input_Password_password'), 'Lm1Albv1LteQ2KmNJoEiNQ==')
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/span_Progress'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/span_Physics'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/p_4.1 Energy'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/img'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/p_4.2 Electricity'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/img'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/p_4.3 Particle model of matter'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/img'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/p_4.4 Atomic Structure'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/img'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/p_4.5 Forces'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/img'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/p_4.6 Waves'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/img'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/p_4.7 Magnetism and electromagnetism'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/img'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/p_4.8 Space physics'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/img'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/p_4.9 Key Ideas'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/img'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/button_Week'))
+
+WebUI.click(findTestObject('Object Repository/Progress/Page_FakeDoor/button_Month'))
+
+WebUI.closeBrowser()
+

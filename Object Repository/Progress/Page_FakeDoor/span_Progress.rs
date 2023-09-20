@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Progress</name>
+   <tag></tag>
+   <elementGuidId>ba50c4ee-e037-4c29-8cae-c2049b69be70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.MuiListItemButton-root.MuiListItemButton-gutters.mui-style-1ilajes > div.MuiListItemText-root.mui-style-1wi22wg > span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.mui-style-rk6eu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/aside/div/div/ul/span/li/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cbc674f6-a6ad-4fe7-84cb-1e5cd8b1e05c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-rk6eu</value>
+      <webElementGuid>96ea7157-9f6b-4162-a21e-aea643ab323b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Progress</value>
+      <webElementGuid>fada42d8-4ccb-4164-ba74-3dc06535dcb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root mui-style-qj5x5b&quot;]/aside[@class=&quot;MuiBox-root mui-style-dlr8ov&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked mui-style-1ttlyux&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft mui-style-1l8j5k8&quot;]/ul[@class=&quot;MuiList-root MuiList-padding mui-style-1yokz7c&quot;]/span[@class=&quot;MuiBox-root mui-style-mkjxjs&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters mui-style-sgjcc7&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters mui-style-1ilajes&quot;]/div[@class=&quot;MuiListItemText-root mui-style-1wi22wg&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-rk6eu&quot;]</value>
+      <webElementGuid>a11ab269-b00b-4077-a384-39d9e2788c91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/aside/div/div/ul/span/li/div/div[2]/span</value>
+      <webElementGuid>6dbd63ec-4248-430d-bab0-443a878cb080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::span[3]</value>
+      <webElementGuid>817758da-e5bd-499d-87d9-f7bf18664d2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::span[5]</value>
+      <webElementGuid>a9b7ec97-1022-45d7-ac21-5eb6e59bf1df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tests'])[1]/preceding::span[4]</value>
+      <webElementGuid>6e6e8514-64d3-4771-8fa3-be672e26da89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::span[7]</value>
+      <webElementGuid>7ebad553-40b5-4597-bae4-7869f9c4e422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Progress']/parent::*</value>
+      <webElementGuid>bb9392be-a573-482f-8e6e-073b2715cfd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/li/div/div[2]/span</value>
+      <webElementGuid>c7129fd0-7c18-4b50-ad31-f9f3264ef8c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Progress' or . = 'Progress')]</value>
+      <webElementGuid>47d6ebad-7a1a-476b-af82-cf687e9094cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

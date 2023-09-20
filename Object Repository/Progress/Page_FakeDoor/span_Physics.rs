@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Physics</name>
+   <tag></tag>
+   <elementGuidId>0dcfc13c-1a0e-4485-997a-a9a7692b7337</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiListItemText-root.mui-style-1tsvksn > span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.mui-style-rk6eu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/aside/div/div/ul/span/div/div/div/div/a/li/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eef91d40-c2fa-491d-b72e-4838a758d796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-rk6eu</value>
+      <webElementGuid>d782a64c-afe2-4ec2-b986-2079e3f5ef77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Physics</value>
+      <webElementGuid>42533fc1-b0dc-46bc-8687-5c4bf7e4bebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root mui-style-1oyaif6&quot;]/aside[@class=&quot;MuiBox-root mui-style-dlr8ov&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked mui-style-ej15cy&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft mui-style-1l8j5k8&quot;]/ul[@class=&quot;MuiList-root MuiList-padding mui-style-1yokz7c&quot;]/span[@class=&quot;MuiBox-root mui-style-mkjxjs&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered mui-style-1o3sdax&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical mui-style-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical mui-style-8atqhb&quot;]/div[@class=&quot;MuiList-root MuiList-padding mui-style-a6eimq&quot;]/a[1]/li[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding mui-style-ag9nyo&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters mui-style-oop3fk&quot;]/div[@class=&quot;MuiListItemText-root mui-style-1tsvksn&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-rk6eu&quot;]</value>
+      <webElementGuid>9e3756e6-7fdd-4349-bde2-970fc1963921</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/aside/div/div/ul/span/div/div/div/div/a/li/div/div/span</value>
+      <webElementGuid>f4431ea8-1fb2-4f12-9977-5ae8d5340577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Progress'])[1]/following::span[2]</value>
+      <webElementGuid>1626092f-008d-4592-9fb8-ff64611eb837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::span[5]</value>
+      <webElementGuid>f7a45145-7f5e-4575-848d-acbcaa13b489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chemistry'])[1]/preceding::span[4]</value>
+      <webElementGuid>62f19e63-d188-4a49-9155-ce78764a9bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biology'])[1]/preceding::span[6]</value>
+      <webElementGuid>185a890f-9416-4bdf-8e6a-5474a24ce193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Physics']/parent::*</value>
+      <webElementGuid>075808a6-296c-4402-b5ed-cd21dea86e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/li/div/div/span</value>
+      <webElementGuid>8096ca6d-78e5-47b4-981a-06de32d1a3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Physics' or . = 'Physics')]</value>
+      <webElementGuid>7e9b3215-a445-4fea-ad53-a514865f0197</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
