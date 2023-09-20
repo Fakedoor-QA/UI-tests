@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_SUN</name>
+   <tag></tag>
+   <elementGuidId>c806f72f-1b6f-4d76-9f22-253acd594a45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/main/div/div[2]/div/div[2]/div/div[2]/div/div/button/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.mui-style-14fnc1a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f4c3e2f0-0786-4b45-8879-65ba2022aa0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 mui-style-14fnc1a</value>
+      <webElementGuid>9211e3af-d4b4-4965-bcab-4092eadce06e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SUN</value>
+      <webElementGuid>9dd7efe0-3ca1-4f9c-a3bf-8b55499a8b33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root mui-style-4qr3bj&quot;]/main[@class=&quot;MuiBox-root mui-style-1o3zpnq&quot;]/div[@class=&quot;MuiBox-root mui-style-rttpik&quot;]/div[@class=&quot;MuiBox-root mui-style-cgoina&quot;]/div[@class=&quot;rbc-calendar&quot;]/div[@class=&quot;rbc-time-view&quot;]/div[@class=&quot;rbc-time-header&quot;]/div[@class=&quot;rbc-time-header-content&quot;]/div[@class=&quot;rbc-row rbc-time-header-cell&quot;]/div[@class=&quot;rbc-header&quot;]/button[@class=&quot;rbc-button-link&quot;]/div[@class=&quot;MuiBox-root mui-style-1n29ns4&quot;]/div[@class=&quot;MuiBox-root mui-style-bwq5q9&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 mui-style-14fnc1a&quot;]</value>
+      <webElementGuid>dea3083c-7ea2-42a4-93f2-a86c6ae13a3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/div[2]/div/div[2]/div/div[2]/div/div/button/div/div/p</value>
+      <webElementGuid>55ad7311-ef26-4e19-98f3-f29e39d69494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D'])[1]/following::p[1]</value>
+      <webElementGuid>547964ec-ac67-4fd9-84b7-9764d54333da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[1]/following::p[1]</value>
+      <webElementGuid>85558734-7d3b-48b5-a550-a4f1ce7f80f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Physics'])[1]/preceding::p[28]</value>
+      <webElementGuid>3a731d92-79b7-4061-bab5-9102b0646588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SUN']/parent::*</value>
+      <webElementGuid>5d87237f-d36f-4924-b75a-30f2150af7e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/p</value>
+      <webElementGuid>35effec7-5819-4844-abf6-9ef817667043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'SUN' or . = 'SUN')]</value>
+      <webElementGuid>e1917a52-0f46-41d1-b8cc-c998cac5b6f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

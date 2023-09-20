@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_TUE</name>
+   <tag></tag>
+   <elementGuidId>bc05a83e-2d4a-4645-af9d-259e799a16e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/main/div/div[2]/div/div[2]/div/div[2]/div/div[3]/button/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7bab1484-a0c6-4fcb-bdea-70971c9a3d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 mui-style-14fnc1a</value>
+      <webElementGuid>dbddce61-e9a9-49b1-ba9e-e6ae5bb02715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TUE</value>
+      <webElementGuid>6a162afb-70a8-4fc4-9dcc-f626e43a207b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root mui-style-4qr3bj&quot;]/main[@class=&quot;MuiBox-root mui-style-1o3zpnq&quot;]/div[@class=&quot;MuiBox-root mui-style-rttpik&quot;]/div[@class=&quot;MuiBox-root mui-style-cgoina&quot;]/div[@class=&quot;rbc-calendar&quot;]/div[@class=&quot;rbc-time-view&quot;]/div[@class=&quot;rbc-time-header&quot;]/div[@class=&quot;rbc-time-header-content&quot;]/div[@class=&quot;rbc-row rbc-time-header-cell&quot;]/div[@class=&quot;rbc-header&quot;]/button[@class=&quot;rbc-button-link&quot;]/div[@class=&quot;MuiBox-root mui-style-1n29ns4&quot;]/div[@class=&quot;MuiBox-root mui-style-bwq5q9&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 mui-style-14fnc1a&quot;]</value>
+      <webElementGuid>93c4280b-03b4-4093-b5cd-3b5219cfbd0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/div[2]/div/div[2]/div/div[2]/div/div[3]/button/div/div/p</value>
+      <webElementGuid>569d80f1-9959-4d3f-a638-5f9cb3c03149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D'])[1]/following::p[9]</value>
+      <webElementGuid>c676cfcd-f92b-428a-a723-bc05b1b35ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[1]/following::p[9]</value>
+      <webElementGuid>73d1f674-f480-4ed4-b0fc-f89ea2c68cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Physics'])[1]/preceding::p[20]</value>
+      <webElementGuid>e4efb193-8ba5-4a13-aa4c-7622360024bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TUE']/parent::*</value>
+      <webElementGuid>a20f523f-1b2f-44ce-92e7-33809b504834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/div/div/p</value>
+      <webElementGuid>3f3a92b8-638c-4010-b0c7-931299825fb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'TUE' or . = 'TUE')]</value>
+      <webElementGuid>9fbfd4e2-915e-4664-bd4f-a6798a2878c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
