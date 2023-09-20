@@ -6,6 +6,7 @@
    <UUID>a7bb59e5-bee0-4a5b-84b6-37e78507803f</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\Katalon Studio\UI-tests\UI-tests.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
