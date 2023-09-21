@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Left Panel Button,Chrome 117.0.0.0,,,2023-09-21 10:04:03,2023-09-21 10:04:52,49.510s,PASSED
+,,,,,,,
+Test Cases/Left Panel Buttons/Left Panel Buttons,Chrome 117.0.0.0,,,2023-09-21 10:04:03,2023-09-21 10:04:52,49.345s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-21 10:04:03,2023-09-21 10:04:05,1.891s,PASSED
+"navigateToUrl(""https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"")",Chrome 117.0.0.0,,,2023-09-21 10:04:05,2023-09-21 10:04:08,3.286s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-09-21 10:04:08,2023-09-21 10:04:08,0.136s,PASSED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/button_Sign In""))",Chrome 117.0.0.0,,,2023-09-21 10:04:08,2023-09-21 10:04:11,2.538s,PASSED
+"setText(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/input_User Name_username""), ""admin2"")",Chrome 117.0.0.0,,,2023-09-21 10:04:11,2023-09-21 10:04:17,5.990s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/input_Password_password""), ""Lm1Albv1LteQ2KmNJoEiNQ=="")",Chrome 117.0.0.0,,,2023-09-21 10:04:17,2023-09-21 10:04:21,4.506s,PASSED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/button_Login""))",Chrome 117.0.0.0,,,2023-09-21 10:04:21,2023-09-21 10:04:24,2.367s,PASSED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Overview""))",Chrome 117.0.0.0,,,2023-09-21 10:04:24,2023-09-21 10:04:29,5.149s,PASSED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Profile""))",Chrome 117.0.0.0,,,2023-09-21 10:04:29,2023-09-21 10:04:32,3.170s,PASSED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Progress""))",Chrome 117.0.0.0,,,2023-09-21 10:04:32,2023-09-21 10:04:35,2.773s,PASSED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Physics""))",Chrome 117.0.0.0,,,2023-09-21 10:04:35,2023-09-21 10:04:37,2.657s,PASSED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Tests""))",Chrome 117.0.0.0,,,2023-09-21 10:04:37,2023-09-21 10:04:41,3.425s,PASSED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Physics""))",Chrome 117.0.0.0,,,2023-09-21 10:04:41,2023-09-21 10:04:43,2.621s,PASSED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Settings""))",Chrome 117.0.0.0,,,2023-09-21 10:04:43,2023-09-21 10:04:46,2.646s,PASSED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332""))",Chrome 117.0.0.0,,,2023-09-21 10:04:46,2023-09-21 10:04:49,2.714s,PASSED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Logout""))",Chrome 117.0.0.0,,,2023-09-21 10:04:49,2023-09-21 10:04:51,2.614s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-21 10:04:51,2023-09-21 10:04:52,0.657s,PASSED

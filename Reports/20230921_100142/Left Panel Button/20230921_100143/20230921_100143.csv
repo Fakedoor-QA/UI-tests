@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Left Panel Button,,,,2023-09-21 10:01:44,2023-09-21 10:01:47,2.747s,FAILED
+,,,,,,,
+Test Cases/Left Panel Buttons/Left Panel Buttons,,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.437s,FAILED
+"openBrowser("""")",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.016s,FAILED
+"navigateToUrl(""https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"")",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.004s,FAILED
+maximizeWindow(),,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.000s,FAILED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/button_Sign In""))",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.053s,FAILED
+"setText(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/input_User Name_username""), ""admin2"")",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.015s,FAILED
+"setEncryptedText(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/input_Password_password""), ""Lm1Albv1LteQ2KmNJoEiNQ=="")",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.038s,FAILED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/button_Login""))",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.032s,FAILED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Overview""))",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.030s,FAILED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Profile""))",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.029s,FAILED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Progress""))",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.025s,FAILED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Physics""))",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.025s,FAILED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Tests""))",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.031s,FAILED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Physics""))",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.027s,FAILED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Settings""))",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.030s,FAILED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332""))",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.026s,FAILED
+"click(findTestObject(""Object Repository/Left Panel Buttons/Page_FakeDoor/span_Logout""))",,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.051s,FAILED
+closeBrowser(),,,,2023-09-21 10:01:47,2023-09-21 10:01:47,0.003s,PASSED
