@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login" time="59.338" tests="2" failures="0" errors="0">
+   <testsuite name="Login" tests="2" failures="0" errors="0" time="59.338" skipped="0" timestamp="2023-09-21 10:08:34" hostname="faked - Fakedoor" id="Test Suites/Login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Katalon Studio\\UI-tests\\Reports\\20230921_100833\\Login\\20230921_100833"/>
+         <property name="logFiles" value="D:\\Katalon Studio\\UI-tests\\Reports\\20230921_100833\\Login\\20230921_100833\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="faked - Fakedoor"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 117.0.0.0"/>
+         <property name="hostAddress" value="10.6.2.181"/>
+         <property name="sessionId" value="0520025dab75f405d740a99a29c4db4a"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Login-Signout/Login-Logout" time="29.939" classname="Test Cases/Login-Signout/Login-Logout" status="PASSED">
+         <system-out><![CDATA[2023-09-21 10:08:34 - [TEST_CASE][PASSED] - Test Cases/Login-Signout/Login-Logout: Test Cases/Login-Signout/Login-Logout
+
+2023-09-21 10:08:35 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 10:08:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 10:08:35 - [MESSAGE][INFO] - Action delay is set to 2,000 milliseconds
+
+2023-09-21 10:08:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 10:08:36 - [TEST_STEP][PASSED] - navigateToUrl("https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"): Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 10:08:40 - [MESSAGE][PASSED] - Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 10:08:40 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 10:08:40 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 10:08:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_FakeDoor/button_Sign In")): Object: 'Object Repository/Login/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 10:08:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 10:08:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_FakeDoor/input_User Name_username"), "admin2"): Text 'admin2' is set on object 'Object Repository/Login/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 10:08:48 - [MESSAGE][PASSED] - Text 'admin2' is set on object 'Object Repository/Login/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 10:08:48 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Login/Page_FakeDoor/input_Password_password"), "Lm1Albv1LteQ2KmNJoEiNQ=="): Text ****** has been set on object 'Object Repository/Login/Page_FakeDoor/input_Password_password'
+
+2023-09-21 10:08:53 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/Page_FakeDoor/input_Password_password'
+
+2023-09-21 10:08:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_FakeDoor/button_Login")): Object: 'Object Repository/Login/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 10:08:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 10:08:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332")): Object: 'Object Repository/Login/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332' is clicked on
+
+2023-09-21 10:09:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332' is clicked on
+
+2023-09-21 10:09:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_FakeDoor/span_Logout")): Object: 'Object Repository/Login/Page_FakeDoor/span_Logout' is clicked on
+
+2023-09-21 10:09:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_FakeDoor/span_Logout' is clicked on
+
+2023-09-21 10:09:04 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 10:09:04 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login-Signout/Signin-Signout" time="29.242" classname="Test Cases/Login-Signout/Signin-Signout" status="PASSED">
+         <system-out><![CDATA[2023-09-21 10:09:04 - [TEST_CASE][PASSED] - Test Cases/Login-Signout/Signin-Signout: Test Cases/Login-Signout/Signin-Signout
+
+2023-09-21 10:09:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 10:09:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 10:09:05 - [MESSAGE][INFO] - Action delay is set to 2,000 milliseconds
+
+2023-09-21 10:09:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 10:09:06 - [TEST_STEP][PASSED] - navigateToUrl("https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"): Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 10:09:09 - [MESSAGE][PASSED] - Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 10:09:09 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 10:09:09 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 10:09:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Signin/Page_FakeDoor/button_Sign In")): Object: 'Object Repository/Signin/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 10:09:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Signin/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 10:09:12 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Signin/Page_FakeDoor/input_User Name_username"), "admin2"): Text 'admin2' is set on object 'Object Repository/Signin/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 10:09:18 - [MESSAGE][PASSED] - Text 'admin2' is set on object 'Object Repository/Signin/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 10:09:18 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Signin/Page_FakeDoor/input_Password_password"), "Lm1Albv1LteQ2KmNJoEiNQ=="): Text ****** has been set on object 'Object Repository/Signin/Page_FakeDoor/input_Password_password'
+
+2023-09-21 10:09:22 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Signin/Page_FakeDoor/input_Password_password'
+
+2023-09-21 10:09:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Signin/Page_FakeDoor/button_Login")): Object: 'Object Repository/Signin/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 10:09:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Signin/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 10:09:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Signin/Page_FakeDoor/img")): Object: 'Object Repository/Signin/Page_FakeDoor/img' is clicked on
+
+2023-09-21 10:09:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Signin/Page_FakeDoor/img' is clicked on
+
+2023-09-21 10:09:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Signin/Page_FakeDoor/button_Sign Out")): Object: 'Object Repository/Signin/Page_FakeDoor/button_Sign Out' is clicked on
+
+2023-09-21 10:09:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Signin/Page_FakeDoor/button_Sign Out' is clicked on
+
+2023-09-21 10:09:33 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 10:09:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-09-21 10:08:34 - [TEST_SUITE][PASSED] - Login: Test Cases/Login-Signout/Signin-Signout]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
