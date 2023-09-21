@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="All Testing" time="537.049" tests="8" failures="0" errors="0">
+   <testsuite name="Buttons" tests="5" failures="0" errors="0" time="427.352" skipped="0" timestamp="2023-09-21 16:41:58" hostname="faked - Fakedoor" id="Test Suites/Buttons">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Katalon Studio\\UI-tests\\Reports\\20230921_164151\\Buttons\\20230921_164152"/>
+         <property name="logFiles" value="D:\\Katalon Studio\\UI-tests\\Reports\\20230921_164151\\Buttons\\20230921_164152\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="faked - Fakedoor"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 117.0.0.0"/>
+         <property name="hostAddress" value="10.6.2.167"/>
+         <property name="sessionId" value="1683082d0cf2aca58451b8e72f5d1566"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Buttons/Overview" time="166.601" classname="Test Cases/Buttons/Overview" status="PASSED">
+         <system-out><![CDATA[2023-09-21 16:41:58 - [TEST_CASE][PASSED] - Test Cases/Buttons/Overview: Test Cases/Buttons/Overview
+
+2023-09-21 16:41:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 16:41:59 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 16:41:59 - [MESSAGE][INFO] - Action delay is set to 2,000 milliseconds
+
+2023-09-21 16:42:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 16:42:00 - [TEST_STEP][PASSED] - navigateToUrl("https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"): Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:42:11 - [MESSAGE][PASSED] - Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:42:11 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 16:42:11 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 16:42:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/button_Sign In")): Object: 'Object Repository/Overview/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:42:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:42:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Overview/Page_FakeDoor/input_User Name_username"), "admin2"): Text 'admin2' is set on object 'Object Repository/Overview/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:42:30 - [MESSAGE][PASSED] - Text 'admin2' is set on object 'Object Repository/Overview/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:42:30 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Overview/Page_FakeDoor/input_Password_password"), "Lm1Albv1LteQ2KmNJoEiNQ=="): Text ****** has been set on object 'Object Repository/Overview/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:42:34 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Overview/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:42:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/button_Login")): Object: 'Object Repository/Overview/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:42:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:42:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/span_Overview")): Object: 'Object Repository/Overview/Page_FakeDoor/span_Overview' is clicked on
+
+2023-09-21 16:42:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/span_Overview' is clicked on
+
+2023-09-21 16:42:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/p_Start Lesson")): Object: 'Object Repository/Overview/Page_FakeDoor/p_Start Lesson' is clicked on
+
+2023-09-21 16:42:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/p_Start Lesson' is clicked on
+
+2023-09-21 16:42:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj")): Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj' is clicked on
+
+2023-09-21 16:42:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj' is clicked on
+
+2023-09-21 16:42:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1")): Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1' is clicked on
+
+2023-09-21 16:43:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1' is clicked on
+
+2023-09-21 16:43:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2")): Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2' is clicked on
+
+2023-09-21 16:43:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2' is clicked on
+
+2023-09-21 16:43:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3")): Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3' is clicked on
+
+2023-09-21 16:43:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3' is clicked on
+
+2023-09-21 16:43:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4")): Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4' is clicked on
+
+2023-09-21 16:43:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4' is clicked on
+
+2023-09-21 16:43:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5")): Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5' is clicked on
+
+2023-09-21 16:43:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5' is clicked on
+
+2023-09-21 16:43:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6")): Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6' is clicked on
+
+2023-09-21 16:43:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6' is clicked on
+
+2023-09-21 16:43:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6_7")): Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6_7' is clicked on
+
+2023-09-21 16:43:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6_7' is clicked on
+
+2023-09-21 16:43:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6_7_8")): Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6_7_8' is clicked on
+
+2023-09-21 16:43:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6_7_8' is clicked on
+
+2023-09-21 16:43:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/button_Back")): Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:43:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:43:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/button_Back")): Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:43:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:43:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/button_Back")): Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:43:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:43:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/button_Back")): Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:44:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:44:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/button_Back")): Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:44:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:44:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/button_Back")): Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:44:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:44:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/button_Back")): Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:44:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:44:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/button_Back")): Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:44:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:44:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/button_Back")): Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:44:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:44:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/button_Back")): Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:44:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:44:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/p_Reminder")): Object: 'Object Repository/Overview/Page_FakeDoor/p_Reminder' is clicked on
+
+2023-09-21 16:44:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/p_Reminder' is clicked on
+
+2023-09-21 16:44:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/span_Overview")): Object: 'Object Repository/Overview/Page_FakeDoor/span_Overview' is clicked on
+
+2023-09-21 16:44:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/span_Overview' is clicked on
+
+2023-09-21 16:44:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/p_Reminder")): Object: 'Object Repository/Overview/Page_FakeDoor/p_Reminder' is clicked on
+
+2023-09-21 16:44:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/p_Reminder' is clicked on
+
+2023-09-21 16:44:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/span_Overview")): Object: 'Object Repository/Overview/Page_FakeDoor/span_Overview' is clicked on
+
+2023-09-21 16:44:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/span_Overview' is clicked on
+
+2023-09-21 16:44:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332")): Object: 'Object Repository/Overview/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332' is clicked on
+
+2023-09-21 16:44:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332' is clicked on
+
+2023-09-21 16:44:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Overview/Page_FakeDoor/span_Logout")): Object: 'Object Repository/Overview/Page_FakeDoor/span_Logout' is clicked on
+
+2023-09-21 16:44:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Overview/Page_FakeDoor/span_Logout' is clicked on
+
+2023-09-21 16:44:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 16:44:45 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Buttons/Profile" time="77.486" classname="Test Cases/Buttons/Profile" status="PASSED">
+         <system-out><![CDATA[2023-09-21 16:44:45 - [TEST_CASE][PASSED] - Test Cases/Buttons/Profile: Test Cases/Buttons/Profile
+
+2023-09-21 16:44:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 16:44:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 16:44:45 - [MESSAGE][INFO] - Action delay is set to 2,000 milliseconds
+
+2023-09-21 16:44:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 16:44:46 - [TEST_STEP][PASSED] - navigateToUrl("https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"): Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:44:50 - [MESSAGE][PASSED] - Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:44:50 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 16:44:50 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 16:44:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/button_Sign In")): Object: 'Object Repository/Profile/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:44:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:44:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Profile/Page_FakeDoor/input_User Name_username"), "admin2"): Text 'admin2' is set on object 'Object Repository/Profile/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:45:00 - [MESSAGE][PASSED] - Text 'admin2' is set on object 'Object Repository/Profile/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:45:00 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Profile/Page_FakeDoor/input_Password_password"), "Lm1Albv1LteQ2KmNJoEiNQ=="): Text ****** has been set on object 'Object Repository/Profile/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:45:05 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Profile/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:45:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/button_Login")): Object: 'Object Repository/Profile/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:45:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:45:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/button_Day")): Object: 'Object Repository/Profile/Page_FakeDoor/button_Day' is clicked on
+
+2023-09-21 16:45:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/button_Day' is clicked on
+
+2023-09-21 16:45:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/button_Week")): Object: 'Object Repository/Profile/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:45:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:45:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/p_SUN")): Object: 'Object Repository/Profile/Page_FakeDoor/p_SUN' is clicked on
+
+2023-09-21 16:45:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/p_SUN' is clicked on
+
+2023-09-21 16:45:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/button_Week")): Object: 'Object Repository/Profile/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:45:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:45:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/p_MON")): Object: 'Object Repository/Profile/Page_FakeDoor/p_MON' is clicked on
+
+2023-09-21 16:45:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/p_MON' is clicked on
+
+2023-09-21 16:45:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/button_Week")): Object: 'Object Repository/Profile/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:45:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:45:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/p_TUE")): Object: 'Object Repository/Profile/Page_FakeDoor/p_TUE' is clicked on
+
+2023-09-21 16:45:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/p_TUE' is clicked on
+
+2023-09-21 16:45:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/button_Week")): Object: 'Object Repository/Profile/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:45:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:45:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/p_WED")): Object: 'Object Repository/Profile/Page_FakeDoor/p_WED' is clicked on
+
+2023-09-21 16:45:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/p_WED' is clicked on
+
+2023-09-21 16:45:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/button_Week")): Object: 'Object Repository/Profile/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:45:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:45:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/p_THU")): Object: 'Object Repository/Profile/Page_FakeDoor/p_THU' is clicked on
+
+2023-09-21 16:45:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/p_THU' is clicked on
+
+2023-09-21 16:45:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/button_Week")): Object: 'Object Repository/Profile/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:45:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:45:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/p_FRI")): Object: 'Object Repository/Profile/Page_FakeDoor/p_FRI' is clicked on
+
+2023-09-21 16:45:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/p_FRI' is clicked on
+
+2023-09-21 16:45:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/button_Week")): Object: 'Object Repository/Profile/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:45:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:45:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/p_SAT")): Object: 'Object Repository/Profile/Page_FakeDoor/p_SAT' is clicked on
+
+2023-09-21 16:45:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/p_SAT' is clicked on
+
+2023-09-21 16:45:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/button_Month")): Object: 'Object Repository/Profile/Page_FakeDoor/button_Month' is clicked on
+
+2023-09-21 16:45:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/button_Month' is clicked on
+
+2023-09-21 16:45:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/button_Continue")): Object: 'Object Repository/Profile/Page_FakeDoor/button_Continue' is clicked on
+
+2023-09-21 16:45:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/button_Continue' is clicked on
+
+2023-09-21 16:45:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/button_Back")): Object: 'Object Repository/Profile/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:45:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/button_Back' is clicked on
+
+2023-09-21 16:45:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332")): Object: 'Object Repository/Profile/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332' is clicked on
+
+2023-09-21 16:45:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332' is clicked on
+
+2023-09-21 16:45:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile/Page_FakeDoor/span_Logout")): Object: 'Object Repository/Profile/Page_FakeDoor/span_Logout' is clicked on
+
+2023-09-21 16:46:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Page_FakeDoor/span_Logout' is clicked on
+
+2023-09-21 16:46:02 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 16:46:02 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Buttons/Progress" time="80.835" classname="Test Cases/Buttons/Progress" status="PASSED">
+         <system-out><![CDATA[2023-09-21 16:46:02 - [TEST_CASE][PASSED] - Test Cases/Buttons/Progress: Test Cases/Buttons/Progress
+
+2023-09-21 16:46:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 16:46:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 16:46:03 - [MESSAGE][INFO] - Action delay is set to 2,000 milliseconds
+
+2023-09-21 16:46:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 16:46:04 - [TEST_STEP][PASSED] - navigateToUrl("https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"): Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:46:07 - [MESSAGE][PASSED] - Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:46:07 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 16:46:07 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 16:46:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/button_Sign In")): Object: 'Object Repository/Progress/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:46:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:46:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Progress/Page_FakeDoor/input_User Name_username"), "admin2"): Text 'admin2' is set on object 'Object Repository/Progress/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:46:17 - [MESSAGE][PASSED] - Text 'admin2' is set on object 'Object Repository/Progress/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:46:17 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Progress/Page_FakeDoor/input_Password_password"), "Lm1Albv1LteQ2KmNJoEiNQ=="): Text ****** has been set on object 'Object Repository/Progress/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:46:22 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Progress/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:46:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/button_Login")): Object: 'Object Repository/Progress/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:46:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:46:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/span_Progress")): Object: 'Object Repository/Progress/Page_FakeDoor/span_Progress' is clicked on
+
+2023-09-21 16:46:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/span_Progress' is clicked on
+
+2023-09-21 16:46:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/span_Physics")): Object: 'Object Repository/Progress/Page_FakeDoor/span_Physics' is clicked on
+
+2023-09-21 16:46:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/span_Physics' is clicked on
+
+2023-09-21 16:46:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/p_4.1 Energy")): Object: 'Object Repository/Progress/Page_FakeDoor/p_4.1 Energy' is clicked on
+
+2023-09-21 16:46:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/p_4.1 Energy' is clicked on
+
+2023-09-21 16:46:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/img")): Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:46:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:46:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/p_4.2 Electricity")): Object: 'Object Repository/Progress/Page_FakeDoor/p_4.2 Electricity' is clicked on
+
+2023-09-21 16:46:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/p_4.2 Electricity' is clicked on
+
+2023-09-21 16:46:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/img")): Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:46:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:46:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/p_4.3 Particle model of matter")): Object: 'Object Repository/Progress/Page_FakeDoor/p_4.3 Particle model of matter' is clicked on
+
+2023-09-21 16:46:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/p_4.3 Particle model of matter' is clicked on
+
+2023-09-21 16:46:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/img")): Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:46:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:46:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/p_4.4 Atomic Structure")): Object: 'Object Repository/Progress/Page_FakeDoor/p_4.4 Atomic Structure' is clicked on
+
+2023-09-21 16:46:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/p_4.4 Atomic Structure' is clicked on
+
+2023-09-21 16:46:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/img")): Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:46:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:46:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/p_4.5 Forces")): Object: 'Object Repository/Progress/Page_FakeDoor/p_4.5 Forces' is clicked on
+
+2023-09-21 16:46:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/p_4.5 Forces' is clicked on
+
+2023-09-21 16:46:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/img")): Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:46:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:46:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/p_4.6 Waves")): Object: 'Object Repository/Progress/Page_FakeDoor/p_4.6 Waves' is clicked on
+
+2023-09-21 16:47:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/p_4.6 Waves' is clicked on
+
+2023-09-21 16:47:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/img")): Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:47:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:47:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/p_4.7 Magnetism and electromagnetism")): Object: 'Object Repository/Progress/Page_FakeDoor/p_4.7 Magnetism and electromagnetism' is clicked on
+
+2023-09-21 16:47:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/p_4.7 Magnetism and electromagnetism' is clicked on
+
+2023-09-21 16:47:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/img")): Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:47:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:47:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/p_4.8 Space physics")): Object: 'Object Repository/Progress/Page_FakeDoor/p_4.8 Space physics' is clicked on
+
+2023-09-21 16:47:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/p_4.8 Space physics' is clicked on
+
+2023-09-21 16:47:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/img")): Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:47:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:47:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/p_4.9 Key Ideas")): Object: 'Object Repository/Progress/Page_FakeDoor/p_4.9 Key Ideas' is clicked on
+
+2023-09-21 16:47:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/p_4.9 Key Ideas' is clicked on
+
+2023-09-21 16:47:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/img")): Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:47:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:47:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/button_Week")): Object: 'Object Repository/Progress/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:47:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/button_Week' is clicked on
+
+2023-09-21 16:47:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Progress/Page_FakeDoor/button_Month")): Object: 'Object Repository/Progress/Page_FakeDoor/button_Month' is clicked on
+
+2023-09-21 16:47:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Progress/Page_FakeDoor/button_Month' is clicked on
+
+2023-09-21 16:47:23 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 16:47:23 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Buttons/Settings" time="43.922" classname="Test Cases/Buttons/Settings" status="PASSED">
+         <system-out><![CDATA[2023-09-21 16:47:23 - [TEST_CASE][PASSED] - Test Cases/Buttons/Settings: Test Cases/Buttons/Settings
+
+2023-09-21 16:47:24 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 16:47:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 16:47:24 - [MESSAGE][INFO] - Action delay is set to 2,000 milliseconds
+
+2023-09-21 16:47:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 16:47:25 - [TEST_STEP][PASSED] - navigateToUrl("https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"): Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:47:28 - [MESSAGE][PASSED] - Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:47:28 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 16:47:28 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 16:47:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Settings/Page_FakeDoor/button_Sign In")): Object: 'Object Repository/Settings/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:47:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Settings/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:47:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Settings/Page_FakeDoor/input_User Name_username"), "admin2"): Text 'admin2' is set on object 'Object Repository/Settings/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:47:37 - [MESSAGE][PASSED] - Text 'admin2' is set on object 'Object Repository/Settings/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:47:37 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Settings/Page_FakeDoor/input_Password_password"), "Lm1Albv1LteQ2KmNJoEiNQ=="): Text ****** has been set on object 'Object Repository/Settings/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:47:42 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Settings/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:47:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Settings/Page_FakeDoor/button_Login")): Object: 'Object Repository/Settings/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:47:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Settings/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:47:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Settings/Page_FakeDoor/span_Settings")): Object: 'Object Repository/Settings/Page_FakeDoor/span_Settings' is clicked on
+
+2023-09-21 16:47:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Settings/Page_FakeDoor/span_Settings' is clicked on
+
+2023-09-21 16:47:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Settings/Page_FakeDoor/button_Password")): Object: 'Object Repository/Settings/Page_FakeDoor/button_Password' is clicked on
+
+2023-09-21 16:47:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Settings/Page_FakeDoor/button_Password' is clicked on
+
+2023-09-21 16:47:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Settings/Page_FakeDoor/button_Account")): Object: 'Object Repository/Settings/Page_FakeDoor/button_Account' is clicked on
+
+2023-09-21 16:47:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Settings/Page_FakeDoor/button_Account' is clicked on
+
+2023-09-21 16:47:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Settings/Page_FakeDoor/input_Name_name")): Object: 'Object Repository/Settings/Page_FakeDoor/input_Name_name' is clicked on
+
+2023-09-21 16:47:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Settings/Page_FakeDoor/input_Name_name' is clicked on
+
+2023-09-21 16:47:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Settings/Page_FakeDoor/button_Password")): Object: 'Object Repository/Settings/Page_FakeDoor/button_Password' is clicked on
+
+2023-09-21 16:47:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Settings/Page_FakeDoor/button_Password' is clicked on
+
+2023-09-21 16:47:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Settings/Page_FakeDoor/div_Current PasswordCurrent PasswordNew Pas_fe54c8")): Object: 'Object Repository/Settings/Page_FakeDoor/div_Current PasswordCurrent PasswordNew Pas_fe54c8' is clicked on
+
+2023-09-21 16:48:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Settings/Page_FakeDoor/div_Current PasswordCurrent PasswordNew Pas_fe54c8' is clicked on
+
+2023-09-21 16:48:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Settings/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332")): Object: 'Object Repository/Settings/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332' is clicked on
+
+2023-09-21 16:48:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Settings/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332' is clicked on
+
+2023-09-21 16:48:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Settings/Page_FakeDoor/span_Logout")): Object: 'Object Repository/Settings/Page_FakeDoor/span_Logout' is clicked on
+
+2023-09-21 16:48:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Settings/Page_FakeDoor/span_Logout' is clicked on
+
+2023-09-21 16:48:07 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 16:48:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Buttons/Tests" time="58.363" classname="Test Cases/Buttons/Tests" status="PASSED">
+         <system-out><![CDATA[2023-09-21 16:48:07 - [TEST_CASE][PASSED] - Test Cases/Buttons/Tests: Test Cases/Buttons/Tests
+
+2023-09-21 16:48:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 16:48:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 16:48:07 - [MESSAGE][INFO] - Action delay is set to 2,000 milliseconds
+
+2023-09-21 16:48:09 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 16:48:09 - [TEST_STEP][PASSED] - navigateToUrl("https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"): Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:48:12 - [MESSAGE][PASSED] - Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:48:12 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 16:48:12 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 16:48:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/button_Sign In")): Object: 'Object Repository/Tests/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:48:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:48:14 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Tests/Page_FakeDoor/input_User Name_username"), "admin2"): Text 'admin2' is set on object 'Object Repository/Tests/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:48:20 - [MESSAGE][PASSED] - Text 'admin2' is set on object 'Object Repository/Tests/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:48:20 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Tests/Page_FakeDoor/input_Password_password"), "Lm1Albv1LteQ2KmNJoEiNQ=="): Text ****** has been set on object 'Object Repository/Tests/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:48:24 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Tests/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:48:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/button_Login")): Object: 'Object Repository/Tests/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:48:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:48:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/span_Tests")): Object: 'Object Repository/Tests/Page_FakeDoor/span_Tests' is clicked on
+
+2023-09-21 16:48:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/span_Tests' is clicked on
+
+2023-09-21 16:48:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/span_Physics")): Object: 'Object Repository/Tests/Page_FakeDoor/span_Physics' is clicked on
+
+2023-09-21 16:48:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/span_Physics' is clicked on
+
+2023-09-21 16:48:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/input_Settings_multipleChoice")): Object: 'Object Repository/Tests/Page_FakeDoor/input_Settings_multipleChoice' is clicked on
+
+2023-09-21 16:48:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/input_Settings_multipleChoice' is clicked on
+
+2023-09-21 16:48:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/input_Settings_multipleChoice")): Object: 'Object Repository/Tests/Page_FakeDoor/input_Settings_multipleChoice' is clicked on
+
+2023-09-21 16:48:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/input_Settings_multipleChoice' is clicked on
+
+2023-09-21 16:48:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/input_Settings_longAnswer")): Object: 'Object Repository/Tests/Page_FakeDoor/input_Settings_longAnswer' is clicked on
+
+2023-09-21 16:48:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/input_Settings_longAnswer' is clicked on
+
+2023-09-21 16:48:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/input_Settings_longAnswer")): Object: 'Object Repository/Tests/Page_FakeDoor/input_Settings_longAnswer' is clicked on
+
+2023-09-21 16:48:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/input_Settings_longAnswer' is clicked on
+
+2023-09-21 16:48:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/img")): Object: 'Object Repository/Tests/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:48:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:48:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/img")): Object: 'Object Repository/Tests/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:48:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:48:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/img")): Object: 'Object Repository/Tests/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:48:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:48:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/img_1")): Object: 'Object Repository/Tests/Page_FakeDoor/img_1' is clicked on
+
+2023-09-21 16:48:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/img_1' is clicked on
+
+2023-09-21 16:48:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/img_1")): Object: 'Object Repository/Tests/Page_FakeDoor/img_1' is clicked on
+
+2023-09-21 16:48:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/img_1' is clicked on
+
+2023-09-21 16:48:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/img_1")): Object: 'Object Repository/Tests/Page_FakeDoor/img_1' is clicked on
+
+2023-09-21 16:49:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/img_1' is clicked on
+
+2023-09-21 16:49:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332")): Object: 'Object Repository/Tests/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332' is clicked on
+
+2023-09-21 16:49:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332' is clicked on
+
+2023-09-21 16:49:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Tests/Page_FakeDoor/span_Logout")): Object: 'Object Repository/Tests/Page_FakeDoor/span_Logout' is clicked on
+
+2023-09-21 16:49:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Tests/Page_FakeDoor/span_Logout' is clicked on
+
+2023-09-21 16:49:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 16:49:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-09-21 16:41:58 - [TEST_SUITE][PASSED] - Buttons: Test Cases/Buttons/Tests]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Left Panel Button" tests="1" failures="0" errors="0" time="47.17" skipped="0" timestamp="2023-09-21 16:49:08" hostname="faked - Fakedoor" id="Test Suites/Left Panel Button">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Katalon Studio\\UI-tests\\Reports\\20230921_164151\\Left Panel Button\\20230921_164154"/>
+         <property name="logFiles" value="D:\\Katalon Studio\\UI-tests\\Reports\\20230921_164151\\Left Panel Button\\20230921_164154\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="faked - Fakedoor"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 117.0.0.0"/>
+         <property name="hostAddress" value="10.6.2.167"/>
+         <property name="sessionId" value="63f6f79f9662dbba4db879ebb89877bb"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Left Panel Buttons/Left Panel Buttons" time="47.057" classname="Test Cases/Left Panel Buttons/Left Panel Buttons" status="PASSED">
+         <system-out><![CDATA[2023-09-21 16:49:08 - [TEST_CASE][PASSED] - Test Cases/Left Panel Buttons/Left Panel Buttons: Test Cases/Left Panel Buttons/Left Panel Buttons
+
+2023-09-21 16:49:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 16:49:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 16:49:08 - [MESSAGE][INFO] - Action delay is set to 2,000 milliseconds
+
+2023-09-21 16:49:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 16:49:10 - [TEST_STEP][PASSED] - navigateToUrl("https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"): Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:49:13 - [MESSAGE][PASSED] - Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:49:13 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 16:49:13 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 16:49:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Left Panel Buttons/Page_FakeDoor/button_Sign In")): Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:49:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:49:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Left Panel Buttons/Page_FakeDoor/input_User Name_username"), "admin2"): Text 'admin2' is set on object 'Object Repository/Left Panel Buttons/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:49:21 - [MESSAGE][PASSED] - Text 'admin2' is set on object 'Object Repository/Left Panel Buttons/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:49:21 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Left Panel Buttons/Page_FakeDoor/input_Password_password"), "Lm1Albv1LteQ2KmNJoEiNQ=="): Text ****** has been set on object 'Object Repository/Left Panel Buttons/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:49:25 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Left Panel Buttons/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:49:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Left Panel Buttons/Page_FakeDoor/button_Login")): Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:49:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:49:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Left Panel Buttons/Page_FakeDoor/span_Overview")): Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Overview' is clicked on
+
+2023-09-21 16:49:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Overview' is clicked on
+
+2023-09-21 16:49:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Left Panel Buttons/Page_FakeDoor/span_Profile")): Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Profile' is clicked on
+
+2023-09-21 16:49:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Profile' is clicked on
+
+2023-09-21 16:49:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Left Panel Buttons/Page_FakeDoor/span_Progress")): Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Progress' is clicked on
+
+2023-09-21 16:49:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Progress' is clicked on
+
+2023-09-21 16:49:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Left Panel Buttons/Page_FakeDoor/span_Physics")): Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Physics' is clicked on
+
+2023-09-21 16:49:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Physics' is clicked on
+
+2023-09-21 16:49:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Left Panel Buttons/Page_FakeDoor/span_Tests")): Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Tests' is clicked on
+
+2023-09-21 16:49:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Tests' is clicked on
+
+2023-09-21 16:49:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Left Panel Buttons/Page_FakeDoor/span_Physics")): Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Physics' is clicked on
+
+2023-09-21 16:49:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Physics' is clicked on
+
+2023-09-21 16:49:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Left Panel Buttons/Page_FakeDoor/span_Settings")): Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Settings' is clicked on
+
+2023-09-21 16:49:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Settings' is clicked on
+
+2023-09-21 16:49:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Left Panel Buttons/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332")): Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332' is clicked on
+
+2023-09-21 16:49:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332' is clicked on
+
+2023-09-21 16:49:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Left Panel Buttons/Page_FakeDoor/span_Logout")): Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Logout' is clicked on
+
+2023-09-21 16:49:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Left Panel Buttons/Page_FakeDoor/span_Logout' is clicked on
+
+2023-09-21 16:49:54 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 16:49:55 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-09-21 16:49:08 - [TEST_SUITE][PASSED] - Left Panel Button: Test Cases/Left Panel Buttons/Left Panel Buttons]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Login" tests="2" failures="0" errors="0" time="56.189" skipped="0" timestamp="2023-09-21 16:49:57" hostname="faked - Fakedoor" id="Test Suites/Login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Katalon Studio\\UI-tests\\Reports\\20230921_164151\\Login\\20230921_164156"/>
+         <property name="logFiles" value="D:\\Katalon Studio\\UI-tests\\Reports\\20230921_164151\\Login\\20230921_164156\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="faked - Fakedoor"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 117.0.0.0"/>
+         <property name="hostAddress" value="10.6.2.167"/>
+         <property name="sessionId" value="736129a94e97e14c3ce9d91e86906cdf"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Login-Signout/Login-Logout" time="28.036" classname="Test Cases/Login-Signout/Login-Logout" status="PASSED">
+         <system-out><![CDATA[2023-09-21 16:49:57 - [TEST_CASE][PASSED] - Test Cases/Login-Signout/Login-Logout: Test Cases/Login-Signout/Login-Logout
+
+2023-09-21 16:49:57 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 16:49:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 16:49:57 - [MESSAGE][INFO] - Action delay is set to 2,000 milliseconds
+
+2023-09-21 16:49:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 16:49:59 - [TEST_STEP][PASSED] - navigateToUrl("https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"): Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:50:02 - [MESSAGE][PASSED] - Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:50:02 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 16:50:02 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 16:50:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_FakeDoor/button_Sign In")): Object: 'Object Repository/Login/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:50:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:50:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_FakeDoor/input_User Name_username"), "admin2"): Text 'admin2' is set on object 'Object Repository/Login/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:50:10 - [MESSAGE][PASSED] - Text 'admin2' is set on object 'Object Repository/Login/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:50:10 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Login/Page_FakeDoor/input_Password_password"), "Lm1Albv1LteQ2KmNJoEiNQ=="): Text ****** has been set on object 'Object Repository/Login/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:50:15 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:50:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_FakeDoor/button_Login")): Object: 'Object Repository/Login/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:50:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:50:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332")): Object: 'Object Repository/Login/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332' is clicked on
+
+2023-09-21 16:50:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332' is clicked on
+
+2023-09-21 16:50:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_FakeDoor/span_Logout")): Object: 'Object Repository/Login/Page_FakeDoor/span_Logout' is clicked on
+
+2023-09-21 16:50:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_FakeDoor/span_Logout' is clicked on
+
+2023-09-21 16:50:24 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 16:50:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login-Signout/Signin-Signout" time="28.028" classname="Test Cases/Login-Signout/Signin-Signout" status="PASSED">
+         <system-out><![CDATA[2023-09-21 16:50:25 - [TEST_CASE][PASSED] - Test Cases/Login-Signout/Signin-Signout: Test Cases/Login-Signout/Signin-Signout
+
+2023-09-21 16:50:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 16:50:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 16:50:25 - [MESSAGE][INFO] - Action delay is set to 2,000 milliseconds
+
+2023-09-21 16:50:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 16:50:27 - [TEST_STEP][PASSED] - navigateToUrl("https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"): Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:50:29 - [MESSAGE][PASSED] - Navigate to 'https://delightful-stone-07bb55f0f.3.azurestaticapps.net/' successfully
+
+2023-09-21 16:50:29 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 16:50:29 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 16:50:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Signin/Page_FakeDoor/button_Sign In")): Object: 'Object Repository/Signin/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:50:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Signin/Page_FakeDoor/button_Sign In' is clicked on
+
+2023-09-21 16:50:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Signin/Page_FakeDoor/input_User Name_username"), "admin2"): Text 'admin2' is set on object 'Object Repository/Signin/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:50:37 - [MESSAGE][PASSED] - Text 'admin2' is set on object 'Object Repository/Signin/Page_FakeDoor/input_User Name_username'
+
+2023-09-21 16:50:37 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Signin/Page_FakeDoor/input_Password_password"), "Lm1Albv1LteQ2KmNJoEiNQ=="): Text ****** has been set on object 'Object Repository/Signin/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:50:42 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Signin/Page_FakeDoor/input_Password_password'
+
+2023-09-21 16:50:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Signin/Page_FakeDoor/button_Login")): Object: 'Object Repository/Signin/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:50:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Signin/Page_FakeDoor/button_Login' is clicked on
+
+2023-09-21 16:50:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Signin/Page_FakeDoor/img")): Object: 'Object Repository/Signin/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:50:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Signin/Page_FakeDoor/img' is clicked on
+
+2023-09-21 16:50:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Signin/Page_FakeDoor/button_Sign Out")): Object: 'Object Repository/Signin/Page_FakeDoor/button_Sign Out' is clicked on
+
+2023-09-21 16:50:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Signin/Page_FakeDoor/button_Sign Out' is clicked on
+
+2023-09-21 16:50:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 16:50:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-09-21 16:49:57 - [TEST_SUITE][PASSED] - Login: Test Cases/Login-Signout/Signin-Signout]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

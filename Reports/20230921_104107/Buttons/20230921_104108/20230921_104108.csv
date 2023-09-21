@@ -1,0 +1,143 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Buttons,Chrome 117.0.0.0,,,2023-09-21 10:41:11,2023-09-21 10:54:04,12m - 53.559s,PASSED
+,,,,,,,
+Test Cases/Buttons/Overview,Chrome 117.0.0.0,,,2023-09-21 10:46:43,2023-09-21 10:49:34,2m - 50.452s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-21 10:46:43,2023-09-21 10:46:44,1.278s,PASSED
+"navigateToUrl(""https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"")",Chrome 117.0.0.0,,,2023-09-21 10:46:44,2023-09-21 10:46:48,3.076s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-09-21 10:46:48,2023-09-21 10:46:48,0.126s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/button_Sign In""))",Chrome 117.0.0.0,,,2023-09-21 10:46:48,2023-09-21 10:46:51,3.786s,PASSED
+"setText(findTestObject(""Object Repository/Overview/Page_FakeDoor/input_User Name_username""), ""admin2"")",Chrome 117.0.0.0,,,2023-09-21 10:46:51,2023-09-21 10:46:58,6.184s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Overview/Page_FakeDoor/input_Password_password""), ""Lm1Albv1LteQ2KmNJoEiNQ=="")",Chrome 117.0.0.0,,,2023-09-21 10:46:58,2023-09-21 10:47:02,4.430s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/button_Login""))",Chrome 117.0.0.0,,,2023-09-21 10:47:02,2023-09-21 10:47:04,2.412s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/span_Overview""))",Chrome 117.0.0.0,,,2023-09-21 10:47:04,2023-09-21 10:47:10,5.653s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/p_Start Lesson""))",Chrome 117.0.0.0,,,2023-09-21 10:47:10,2023-09-21 10:47:18,7.405s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj""))",Chrome 117.0.0.0,,,2023-09-21 10:47:18,2023-09-21 10:47:21,3.011s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1""))",Chrome 117.0.0.0,,,2023-09-21 10:47:21,2023-09-21 10:47:27,6.945s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2""))",Chrome 117.0.0.0,,,2023-09-21 10:47:27,2023-09-21 10:47:35,7.141s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3""))",Chrome 117.0.0.0,,,2023-09-21 10:47:35,2023-09-21 10:47:42,7.100s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4""))",Chrome 117.0.0.0,,,2023-09-21 10:47:42,2023-09-21 10:47:49,7.066s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5""))",Chrome 117.0.0.0,,,2023-09-21 10:47:49,2023-09-21 10:47:56,7.076s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6""))",Chrome 117.0.0.0,,,2023-09-21 10:47:56,2023-09-21 10:48:03,7.119s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6_7""))",Chrome 117.0.0.0,,,2023-09-21 10:48:03,2023-09-21 10:48:10,7.092s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6_7_8""))",Chrome 117.0.0.0,,,2023-09-21 10:48:10,2023-09-21 10:48:17,7.049s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/button_Back""))",Chrome 117.0.0.0,,,2023-09-21 10:48:17,2023-09-21 10:48:20,2.942s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/button_Back""))",Chrome 117.0.0.0,,,2023-09-21 10:48:20,2023-09-21 10:48:23,3.060s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/button_Back""))",Chrome 117.0.0.0,,,2023-09-21 10:48:23,2023-09-21 10:48:26,3.082s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/button_Back""))",Chrome 117.0.0.0,,,2023-09-21 10:48:26,2023-09-21 10:48:29,3.047s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/button_Back""))",Chrome 117.0.0.0,,,2023-09-21 10:48:29,2023-09-21 10:48:53,23.526s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/button_Back""))",Chrome 117.0.0.0,,,2023-09-21 10:48:53,2023-09-21 10:48:56,3.144s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/button_Back""))",Chrome 117.0.0.0,,,2023-09-21 10:48:56,2023-09-21 10:48:59,3.075s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/button_Back""))",Chrome 117.0.0.0,,,2023-09-21 10:48:59,2023-09-21 10:49:02,3.076s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/button_Back""))",Chrome 117.0.0.0,,,2023-09-21 10:49:02,2023-09-21 10:49:05,3.066s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/button_Back""))",Chrome 117.0.0.0,,,2023-09-21 10:49:05,2023-09-21 10:49:08,2.552s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/p_Reminder""))",Chrome 117.0.0.0,,,2023-09-21 10:49:08,2023-09-21 10:49:15,6.833s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/span_Overview""))",Chrome 117.0.0.0,,,2023-09-21 10:49:15,2023-09-21 10:49:17,2.781s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/p_Reminder""))",Chrome 117.0.0.0,,,2023-09-21 10:49:17,2023-09-21 10:49:25,7.321s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/span_Overview""))",Chrome 117.0.0.0,,,2023-09-21 10:49:25,2023-09-21 10:49:27,2.786s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332""))",Chrome 117.0.0.0,,,2023-09-21 10:49:27,2023-09-21 10:49:30,2.782s,PASSED
+"click(findTestObject(""Object Repository/Overview/Page_FakeDoor/span_Logout""))",Chrome 117.0.0.0,,,2023-09-21 10:49:30,2023-09-21 10:49:33,2.717s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-21 10:49:33,2023-09-21 10:49:34,0.707s,PASSED
+,,,,,,,
+Test Cases/Buttons/Profile,Chrome 117.0.0.0,,,2023-09-21 10:49:34,2023-09-21 10:50:59,1m - 25.475s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-21 10:49:34,2023-09-21 10:49:35,1.217s,PASSED
+"navigateToUrl(""https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"")",Chrome 117.0.0.0,,,2023-09-21 10:49:35,2023-09-21 10:49:38,3.206s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-09-21 10:49:38,2023-09-21 10:49:38,0.145s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/button_Sign In""))",Chrome 117.0.0.0,,,2023-09-21 10:49:38,2023-09-21 10:49:41,2.517s,PASSED
+"setText(findTestObject(""Object Repository/Profile/Page_FakeDoor/input_User Name_username""), ""admin2"")",Chrome 117.0.0.0,,,2023-09-21 10:49:41,2023-09-21 10:49:51,10.397s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Profile/Page_FakeDoor/input_Password_password""), ""Lm1Albv1LteQ2KmNJoEiNQ=="")",Chrome 117.0.0.0,,,2023-09-21 10:49:51,2023-09-21 10:49:57,5.997s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/button_Login""))",Chrome 117.0.0.0,,,2023-09-21 10:49:57,2023-09-21 10:50:01,4.038s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/button_Day""))",Chrome 117.0.0.0,,,2023-09-21 10:50:01,2023-09-21 10:50:07,5.911s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/button_Week""))",Chrome 117.0.0.0,,,2023-09-21 10:50:07,2023-09-21 10:50:11,3.857s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/p_SUN""))",Chrome 117.0.0.0,,,2023-09-21 10:50:11,2023-09-21 10:50:14,2.526s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/button_Week""))",Chrome 117.0.0.0,,,2023-09-21 10:50:14,2023-09-21 10:50:16,2.606s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/p_MON""))",Chrome 117.0.0.0,,,2023-09-21 10:50:16,2023-09-21 10:50:19,2.649s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/button_Week""))",Chrome 117.0.0.0,,,2023-09-21 10:50:19,2023-09-21 10:50:21,2.630s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/p_TUE""))",Chrome 117.0.0.0,,,2023-09-21 10:50:21,2023-09-21 10:50:24,2.649s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/button_Week""))",Chrome 117.0.0.0,,,2023-09-21 10:50:24,2023-09-21 10:50:27,2.516s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/p_WED""))",Chrome 117.0.0.0,,,2023-09-21 10:50:27,2023-09-21 10:50:29,2.534s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/button_Week""))",Chrome 117.0.0.0,,,2023-09-21 10:50:29,2023-09-21 10:50:32,2.616s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/p_THU""))",Chrome 117.0.0.0,,,2023-09-21 10:50:32,2023-09-21 10:50:34,2.570s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/button_Week""))",Chrome 117.0.0.0,,,2023-09-21 10:50:34,2023-09-21 10:50:37,2.648s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/p_FRI""))",Chrome 117.0.0.0,,,2023-09-21 10:50:37,2023-09-21 10:50:40,2.507s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/button_Week""))",Chrome 117.0.0.0,,,2023-09-21 10:50:40,2023-09-21 10:50:42,2.600s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/p_SAT""))",Chrome 117.0.0.0,,,2023-09-21 10:50:42,2023-09-21 10:50:45,2.570s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/button_Month""))",Chrome 117.0.0.0,,,2023-09-21 10:50:45,2023-09-21 10:50:47,2.625s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/button_Continue""))",Chrome 117.0.0.0,,,2023-09-21 10:50:47,2023-09-21 10:50:50,2.554s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/button_Back""))",Chrome 117.0.0.0,,,2023-09-21 10:50:50,2023-09-21 10:50:53,3.213s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332""))",Chrome 117.0.0.0,,,2023-09-21 10:50:53,2023-09-21 10:50:56,2.664s,PASSED
+"click(findTestObject(""Object Repository/Profile/Page_FakeDoor/span_Logout""))",Chrome 117.0.0.0,,,2023-09-21 10:50:56,2023-09-21 10:50:58,2.648s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-21 10:50:58,2023-09-21 10:50:59,0.710s,PASSED
+,,,,,,,
+Test Cases/Buttons/Progress,Chrome 117.0.0.0,,,2023-09-21 10:50:59,2023-09-21 10:52:20,1m - 20.770s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-21 10:50:59,2023-09-21 10:51:01,1.185s,PASSED
+"navigateToUrl(""https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"")",Chrome 117.0.0.0,,,2023-09-21 10:51:01,2023-09-21 10:51:03,2.576s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-09-21 10:51:03,2023-09-21 10:51:03,0.140s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/button_Sign In""))",Chrome 117.0.0.0,,,2023-09-21 10:51:03,2023-09-21 10:51:07,3.866s,PASSED
+"setText(findTestObject(""Object Repository/Progress/Page_FakeDoor/input_User Name_username""), ""admin2"")",Chrome 117.0.0.0,,,2023-09-21 10:51:07,2023-09-21 10:51:13,5.660s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Progress/Page_FakeDoor/input_Password_password""), ""Lm1Albv1LteQ2KmNJoEiNQ=="")",Chrome 117.0.0.0,,,2023-09-21 10:51:13,2023-09-21 10:51:17,4.426s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/button_Login""))",Chrome 117.0.0.0,,,2023-09-21 10:51:17,2023-09-21 10:51:20,2.410s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/span_Progress""))",Chrome 117.0.0.0,,,2023-09-21 10:51:20,2023-09-21 10:51:25,5.828s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/span_Physics""))",Chrome 117.0.0.0,,,2023-09-21 10:51:25,2023-09-21 10:51:28,2.693s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/p_4.1 Energy""))",Chrome 117.0.0.0,,,2023-09-21 10:51:28,2023-09-21 10:51:31,3.349s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/img""))",Chrome 117.0.0.0,,,2023-09-21 10:51:31,2023-09-21 10:51:34,2.598s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/p_4.2 Electricity""))",Chrome 117.0.0.0,,,2023-09-21 10:51:34,2023-09-21 10:51:37,2.543s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/img""))",Chrome 117.0.0.0,,,2023-09-21 10:51:37,2023-09-21 10:51:39,2.482s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/p_4.3 Particle model of matter""))",Chrome 117.0.0.0,,,2023-09-21 10:51:39,2023-09-21 10:51:42,2.553s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/img""))",Chrome 117.0.0.0,,,2023-09-21 10:51:42,2023-09-21 10:51:44,2.486s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/p_4.4 Atomic Structure""))",Chrome 117.0.0.0,,,2023-09-21 10:51:44,2023-09-21 10:51:47,2.516s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/img""))",Chrome 117.0.0.0,,,2023-09-21 10:51:47,2023-09-21 10:51:49,2.479s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/p_4.5 Forces""))",Chrome 117.0.0.0,,,2023-09-21 10:51:49,2023-09-21 10:51:52,2.526s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/img""))",Chrome 117.0.0.0,,,2023-09-21 10:51:52,2023-09-21 10:51:54,2.480s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/p_4.6 Waves""))",Chrome 117.0.0.0,,,2023-09-21 10:51:54,2023-09-21 10:51:57,2.496s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/img""))",Chrome 117.0.0.0,,,2023-09-21 10:51:57,2023-09-21 10:51:59,2.489s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/p_4.7 Magnetism and electromagnetism""))",Chrome 117.0.0.0,,,2023-09-21 10:51:59,2023-09-21 10:52:02,2.521s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/img""))",Chrome 117.0.0.0,,,2023-09-21 10:52:02,2023-09-21 10:52:04,2.487s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/p_4.8 Space physics""))",Chrome 117.0.0.0,,,2023-09-21 10:52:04,2023-09-21 10:52:07,2.500s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/img""))",Chrome 117.0.0.0,,,2023-09-21 10:52:07,2023-09-21 10:52:09,2.563s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/p_4.9 Key Ideas""))",Chrome 117.0.0.0,,,2023-09-21 10:52:09,2023-09-21 10:52:12,2.472s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/img""))",Chrome 117.0.0.0,,,2023-09-21 10:52:12,2023-09-21 10:52:14,2.550s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/button_Week""))",Chrome 117.0.0.0,,,2023-09-21 10:52:14,2023-09-21 10:52:17,2.511s,PASSED
+"click(findTestObject(""Object Repository/Progress/Page_FakeDoor/button_Month""))",Chrome 117.0.0.0,,,2023-09-21 10:52:17,2023-09-21 10:52:19,2.490s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-21 10:52:19,2023-09-21 10:52:20,0.663s,PASSED
+,,,,,,,
+Test Cases/Buttons/Settings,Chrome 117.0.0.0,,,2023-09-21 10:52:20,2023-09-21 10:53:05,45.458s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-21 10:52:20,2023-09-21 10:52:21,1.136s,PASSED
+"navigateToUrl(""https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"")",Chrome 117.0.0.0,,,2023-09-21 10:52:21,2023-09-21 10:52:24,2.971s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-09-21 10:52:24,2023-09-21 10:52:24,0.142s,PASSED
+"click(findTestObject(""Object Repository/Settings/Page_FakeDoor/button_Sign In""))",Chrome 117.0.0.0,,,2023-09-21 10:52:24,2023-09-21 10:52:27,2.531s,PASSED
+"setText(findTestObject(""Object Repository/Settings/Page_FakeDoor/input_User Name_username""), ""admin2"")",Chrome 117.0.0.0,,,2023-09-21 10:52:27,2023-09-21 10:52:35,7.899s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Settings/Page_FakeDoor/input_Password_password""), ""Lm1Albv1LteQ2KmNJoEiNQ=="")",Chrome 117.0.0.0,,,2023-09-21 10:52:35,2023-09-21 10:52:39,4.443s,PASSED
+"click(findTestObject(""Object Repository/Settings/Page_FakeDoor/button_Login""))",Chrome 117.0.0.0,,,2023-09-21 10:52:39,2023-09-21 10:52:42,2.418s,PASSED
+"click(findTestObject(""Object Repository/Settings/Page_FakeDoor/span_Settings""))",Chrome 117.0.0.0,,,2023-09-21 10:52:42,2023-09-21 10:52:47,5.145s,PASSED
+"click(findTestObject(""Object Repository/Settings/Page_FakeDoor/button_Password""))",Chrome 117.0.0.0,,,2023-09-21 10:52:47,2023-09-21 10:52:49,2.648s,PASSED
+"click(findTestObject(""Object Repository/Settings/Page_FakeDoor/button_Account""))",Chrome 117.0.0.0,,,2023-09-21 10:52:49,2023-09-21 10:52:52,2.620s,PASSED
+"click(findTestObject(""Object Repository/Settings/Page_FakeDoor/input_Name_name""))",Chrome 117.0.0.0,,,2023-09-21 10:52:52,2023-09-21 10:52:55,2.634s,PASSED
+"click(findTestObject(""Object Repository/Settings/Page_FakeDoor/button_Password""))",Chrome 117.0.0.0,,,2023-09-21 10:52:55,2023-09-21 10:52:57,2.402s,PASSED
+"click(findTestObject(""Object Repository/Settings/Page_FakeDoor/div_Current PasswordCurrent PasswordNew Pas_fe54c8""))",Chrome 117.0.0.0,,,2023-09-21 10:52:57,2023-09-21 10:53:00,2.530s,PASSED
+"click(findTestObject(""Object Repository/Settings/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332""))",Chrome 117.0.0.0,,,2023-09-21 10:53:00,2023-09-21 10:53:02,2.420s,PASSED
+"click(findTestObject(""Object Repository/Settings/Page_FakeDoor/span_Logout""))",Chrome 117.0.0.0,,,2023-09-21 10:53:02,2023-09-21 10:53:05,2.646s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-21 10:53:05,2023-09-21 10:53:05,0.700s,PASSED
+,,,,,,,
+Test Cases/Buttons/Tests,Chrome 117.0.0.0,,,2023-09-21 10:53:05,2023-09-21 10:54:04,59.094s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-21 10:53:06,2023-09-21 10:53:07,1.140s,PASSED
+"navigateToUrl(""https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"")",Chrome 117.0.0.0,,,2023-09-21 10:53:07,2023-09-21 10:53:09,2.639s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-09-21 10:53:09,2023-09-21 10:53:09,0.143s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/button_Sign In""))",Chrome 117.0.0.0,,,2023-09-21 10:53:09,2023-09-21 10:53:12,2.506s,PASSED
+"setText(findTestObject(""Object Repository/Tests/Page_FakeDoor/input_User Name_username""), ""admin2"")",Chrome 117.0.0.0,,,2023-09-21 10:53:12,2023-09-21 10:53:18,5.648s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Tests/Page_FakeDoor/input_Password_password""), ""Lm1Albv1LteQ2KmNJoEiNQ=="")",Chrome 117.0.0.0,,,2023-09-21 10:53:18,2023-09-21 10:53:22,4.420s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/button_Login""))",Chrome 117.0.0.0,,,2023-09-21 10:53:22,2023-09-21 10:53:24,2.368s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/span_Tests""))",Chrome 117.0.0.0,,,2023-09-21 10:53:24,2023-09-21 10:53:30,5.549s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/span_Physics""))",Chrome 117.0.0.0,,,2023-09-21 10:53:30,2023-09-21 10:53:33,2.660s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/input_Settings_multipleChoice""))",Chrome 117.0.0.0,,,2023-09-21 10:53:33,2023-09-21 10:53:35,2.621s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/input_Settings_multipleChoice""))",Chrome 117.0.0.0,,,2023-09-21 10:53:35,2023-09-21 10:53:38,2.600s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/input_Settings_longAnswer""))",Chrome 117.0.0.0,,,2023-09-21 10:53:38,2023-09-21 10:53:40,2.548s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/input_Settings_longAnswer""))",Chrome 117.0.0.0,,,2023-09-21 10:53:40,2023-09-21 10:53:43,2.646s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/img""))",Chrome 117.0.0.0,,,2023-09-21 10:53:43,2023-09-21 10:53:46,2.532s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/img""))",Chrome 117.0.0.0,,,2023-09-21 10:53:46,2023-09-21 10:53:48,2.605s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/img""))",Chrome 117.0.0.0,,,2023-09-21 10:53:48,2023-09-21 10:53:51,2.531s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/img_1""))",Chrome 117.0.0.0,,,2023-09-21 10:53:51,2023-09-21 10:53:53,2.523s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/img_1""))",Chrome 117.0.0.0,,,2023-09-21 10:53:53,2023-09-21 10:53:56,2.638s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/img_1""))",Chrome 117.0.0.0,,,2023-09-21 10:53:56,2023-09-21 10:53:58,2.610s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332""))",Chrome 117.0.0.0,,,2023-09-21 10:53:58,2023-09-21 10:54:01,2.631s,PASSED
+"click(findTestObject(""Object Repository/Tests/Page_FakeDoor/span_Logout""))",Chrome 117.0.0.0,,,2023-09-21 10:54:01,2023-09-21 10:54:04,2.675s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-21 10:54:04,2023-09-21 10:54:04,0.673s,PASSED

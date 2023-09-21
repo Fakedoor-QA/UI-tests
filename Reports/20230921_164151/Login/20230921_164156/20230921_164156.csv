@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login,Chrome 117.0.0.0,,,2023-09-21 16:49:57,2023-09-21 16:50:53,56.189s,PASSED
+,,,,,,,
+Test Cases/Login-Signout/Login-Logout,Chrome 117.0.0.0,,,2023-09-21 16:49:57,2023-09-21 16:50:25,28.036s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-21 16:49:57,2023-09-21 16:49:59,1.516s,PASSED
+"navigateToUrl(""https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"")",Chrome 117.0.0.0,,,2023-09-21 16:49:59,2023-09-21 16:50:02,3.105s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-09-21 16:50:02,2023-09-21 16:50:02,0.131s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_FakeDoor/button_Sign In""))",Chrome 117.0.0.0,,,2023-09-21 16:50:02,2023-09-21 16:50:04,2.398s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_FakeDoor/input_User Name_username""), ""admin2"")",Chrome 117.0.0.0,,,2023-09-21 16:50:04,2023-09-21 16:50:10,5.799s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_FakeDoor/input_Password_password""), ""Lm1Albv1LteQ2KmNJoEiNQ=="")",Chrome 117.0.0.0,,,2023-09-21 16:50:10,2023-09-21 16:50:15,4.398s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_FakeDoor/button_Login""))",Chrome 117.0.0.0,,,2023-09-21 16:50:15,2023-09-21 16:50:17,2.411s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332""))",Chrome 117.0.0.0,,,2023-09-21 16:50:17,2023-09-21 16:50:22,4.811s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_FakeDoor/span_Logout""))",Chrome 117.0.0.0,,,2023-09-21 16:50:22,2023-09-21 16:50:24,2.681s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-21 16:50:24,2023-09-21 16:50:25,0.632s,PASSED
+,,,,,,,
+Test Cases/Login-Signout/Signin-Signout,Chrome 117.0.0.0,,,2023-09-21 16:50:25,2023-09-21 16:50:53,28.028s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-21 16:50:25,2023-09-21 16:50:27,1.102s,PASSED
+"navigateToUrl(""https://delightful-stone-07bb55f0f.3.azurestaticapps.net/"")",Chrome 117.0.0.0,,,2023-09-21 16:50:27,2023-09-21 16:50:29,2.691s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-09-21 16:50:29,2023-09-21 16:50:29,0.123s,PASSED
+"click(findTestObject(""Object Repository/Signin/Page_FakeDoor/button_Sign In""))",Chrome 117.0.0.0,,,2023-09-21 16:50:29,2023-09-21 16:50:32,2.520s,PASSED
+"setText(findTestObject(""Object Repository/Signin/Page_FakeDoor/input_User Name_username""), ""admin2"")",Chrome 117.0.0.0,,,2023-09-21 16:50:32,2023-09-21 16:50:37,5.568s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Signin/Page_FakeDoor/input_Password_password""), ""Lm1Albv1LteQ2KmNJoEiNQ=="")",Chrome 117.0.0.0,,,2023-09-21 16:50:37,2023-09-21 16:50:42,4.465s,PASSED
+"click(findTestObject(""Object Repository/Signin/Page_FakeDoor/button_Login""))",Chrome 117.0.0.0,,,2023-09-21 16:50:42,2023-09-21 16:50:44,2.416s,PASSED
+"click(findTestObject(""Object Repository/Signin/Page_FakeDoor/img""))",Chrome 117.0.0.0,,,2023-09-21 16:50:44,2023-09-21 16:50:50,5.268s,PASSED
+"click(findTestObject(""Object Repository/Signin/Page_FakeDoor/button_Sign Out""))",Chrome 117.0.0.0,,,2023-09-21 16:50:50,2023-09-21 16:50:52,2.879s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-21 16:50:52,2023-09-21 16:50:53,0.686s,PASSED
