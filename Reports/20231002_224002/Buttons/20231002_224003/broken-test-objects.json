@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Buttons/Overview/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332",
+      "brokenLocator": "//button[@type\u003d\u0027button\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20231002_224002/Buttons/20231002_224003/Object Repository/Buttons/Overview/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332_position.png"
+    }
+  ]
+}
