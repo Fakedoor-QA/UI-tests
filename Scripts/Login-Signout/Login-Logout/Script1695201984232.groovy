@@ -23,17 +23,17 @@ WebUI.navigateToUrl('https://delightful-stone-07bb55f0f.3.azurestaticapps.net/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Login/Page_FakeDoor/button_Sign In'))
+WebUI.click(findTestObject('Object Repository/Login-Signout/Login/Page_FakeDoor/button_Sign In'))
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_FakeDoor/input_User Name_username'), 'admin2')
+WebUI.setText(findTestObject('Object Repository/Login-Signout/Login/Page_FakeDoor/input_User Name_username'), 'admin2')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_FakeDoor/input_Password_password'), 'Lm1Albv1LteQ2KmNJoEiNQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Login-Signout/Login/Page_FakeDoor/input_Password_password'), 'Lm1Albv1LteQ2KmNJoEiNQ==')
 
-WebUI.click(findTestObject('Object Repository/Login/Page_FakeDoor/button_Login'))
+WebUI.click(findTestObject('Object Repository/Login-Signout/Login/Page_FakeDoor/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Login/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332'))
+WebUI.click(findTestObject('Object Repository/Login-Signout/Login/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332'))
 
-WebUI.click(findTestObject('Object Repository/Login/Page_FakeDoor/span_Logout'))
+WebUI.click(findTestObject('Object Repository/Login-Signout/Login/Page_FakeDoor/span_Logout'))
 
 WebUI.closeBrowser()
 

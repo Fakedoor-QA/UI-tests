@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Back_MuiBox-root mui-style-1f4e7rj_1</name>
+   <tag></tag>
+   <elementGuidId>a7196f4f-7cda-4c91-8b07-51f19d1d1f99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div/div/div[2]/a/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0a919667-442d-41cb-90fb-7b627b8ad7d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root mui-style-1f4e7rj</value>
+      <webElementGuid>814fe284-9ede-4bdf-b44d-8fe3d5052195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/plug.svg</value>
+      <webElementGuid>0fc8ab8e-9e04-4bfe-a9a7-1183986e05c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>topic image</value>
+      <webElementGuid>d09c7a4a-cec0-4e17-bb43-a14c5880c2a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;MuiBox-root mui-style-s8mne9&quot;]/div[@class=&quot;MuiBox-root mui-style-1lu2w1e&quot;]/div[@class=&quot;MuiBox-root mui-style-1u9r2as&quot;]/div[@class=&quot;MuiBox-root mui-style-180cis9&quot;]/div[@class=&quot;MuiBox-root mui-style-35p3gl&quot;]/a[1]/div[@class=&quot;MuiBox-root mui-style-gg4vpm&quot;]/div[@class=&quot;MuiBox-root mui-style-1w1vbxm&quot;]/img[@class=&quot;MuiBox-root mui-style-1f4e7rj&quot;]</value>
+      <webElementGuid>038162da-8828-4766-86a4-a3c8249633ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div/div[2]/a/div/div/img</value>
+      <webElementGuid>2d0df95c-0bbf-4d21-8563-e60a7f20ee67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='topic image'])[2]</value>
+      <webElementGuid>ae3eae7e-d589-44da-bde0-8d5bd4780698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div/div/img</value>
+      <webElementGuid>8db0e1f9-91ba-40ce-afda-3c01ae3eec3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/plug.svg' and @alt = 'topic image']</value>
+      <webElementGuid>777aafc5-fbab-49d8-916b-afb74f396766</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

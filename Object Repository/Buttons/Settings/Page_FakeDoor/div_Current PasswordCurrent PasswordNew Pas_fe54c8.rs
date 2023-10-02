@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Current PasswordCurrent PasswordNew Pas_fe54c8</name>
+   <tag></tag>
+   <elementGuidId>f4432301-4dc8-44db-8dbc-ab92e44e1497</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.mui-style-j7qwjs</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='simple-tabpanel-1']/div/div/form/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>16a8c7a8-6c85-4b0a-958d-082438285c47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root mui-style-j7qwjs</value>
+      <webElementGuid>7d2eaf72-13f3-423d-8d4e-29df566822b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Current PasswordCurrent PasswordNew PasswordNew PasswordConfirm PasswordConfirm Password</value>
+      <webElementGuid>7ba71628-c5c8-489a-b61b-cb57e678b27b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;simple-tabpanel-1&quot;)/div[@class=&quot;MuiBox-root mui-style-11npe3m&quot;]/div[@class=&quot;MuiBox-root mui-style-uhmia8&quot;]/form[1]/div[@class=&quot;MuiBox-root mui-style-j7qwjs&quot;]</value>
+      <webElementGuid>e1554ac5-58ea-4c0f-9224-fd3f80b630ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='simple-tabpanel-1']/div/div/form/div</value>
+      <webElementGuid>51eff7f6-f615-4a3b-8991-af8c8528b2a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[5]</value>
+      <webElementGuid>9feae8b0-740e-4b9a-bbc4-81fb3c9392dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>40e04ee3-56c5-479b-bc8b-90480910419b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Current PasswordCurrent PasswordNew PasswordNew PasswordConfirm PasswordConfirm Password' or . = 'Current PasswordCurrent PasswordNew PasswordNew PasswordConfirm PasswordConfirm Password')]</value>
+      <webElementGuid>a4f52427-8731-4687-b1b8-927c844b35a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

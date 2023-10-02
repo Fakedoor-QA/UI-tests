@@ -23,29 +23,29 @@ WebUI.navigateToUrl('https://delightful-stone-07bb55f0f.3.azurestaticapps.net/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Settings/Page_FakeDoor/button_Sign In'))
+WebUI.click(findTestObject('Object Repository/Buttons/Settings/Page_FakeDoor/button_Sign In'))
 
-WebUI.setText(findTestObject('Object Repository/Settings/Page_FakeDoor/input_User Name_username'), 'admin2')
+WebUI.setText(findTestObject('Object Repository/Buttons/Settings/Page_FakeDoor/input_User Name_username'), 'admin2')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Settings/Page_FakeDoor/input_Password_password'), 'Lm1Albv1LteQ2KmNJoEiNQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Buttons/Settings/Page_FakeDoor/input_Password_password'), 'Lm1Albv1LteQ2KmNJoEiNQ==')
 
-WebUI.click(findTestObject('Object Repository/Settings/Page_FakeDoor/button_Login'))
+WebUI.click(findTestObject('Object Repository/Buttons/Settings/Page_FakeDoor/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Settings/Page_FakeDoor/span_Settings'))
+WebUI.click(findTestObject('Object Repository/Buttons/Settings/Page_FakeDoor/span_Settings'))
 
-WebUI.click(findTestObject('Object Repository/Settings/Page_FakeDoor/button_Password'))
+WebUI.click(findTestObject('Object Repository/Buttons/Settings/Page_FakeDoor/button_Password'))
 
-WebUI.click(findTestObject('Object Repository/Settings/Page_FakeDoor/button_Account'))
+WebUI.click(findTestObject('Object Repository/Buttons/Settings/Page_FakeDoor/button_Account'))
 
-WebUI.click(findTestObject('Object Repository/Settings/Page_FakeDoor/input_Name_name'))
+WebUI.click(findTestObject('Object Repository/Buttons/Settings/Page_FakeDoor/input_Name_name'))
 
-WebUI.click(findTestObject('Object Repository/Settings/Page_FakeDoor/button_Password'))
+WebUI.click(findTestObject('Object Repository/Buttons/Settings/Page_FakeDoor/button_Password'))
 
-WebUI.click(findTestObject('Object Repository/Settings/Page_FakeDoor/div_Current PasswordCurrent PasswordNew Pas_fe54c8'))
+WebUI.click(findTestObject('Object Repository/Buttons/Settings/Page_FakeDoor/div_Current PasswordCurrent PasswordNew Pas_fe54c8'))
 
-WebUI.click(findTestObject('Object Repository/Settings/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332'))
+WebUI.click(findTestObject('Object Repository/Buttons/Settings/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332'))
 
-WebUI.click(findTestObject('Object Repository/Settings/Page_FakeDoor/span_Logout'))
+WebUI.click(findTestObject('Object Repository/Buttons/Settings/Page_FakeDoor/span_Logout'))
 
 WebUI.closeBrowser()
 

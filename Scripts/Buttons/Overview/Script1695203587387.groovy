@@ -23,67 +23,67 @@ WebUI.navigateToUrl('https://delightful-stone-07bb55f0f.3.azurestaticapps.net/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/button_Sign In'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/button_Sign In'))
 
-WebUI.setText(findTestObject('Object Repository/Overview/Page_FakeDoor/input_User Name_username'), 'admin2')
+WebUI.setText(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/input_User Name_username'), 'admin2')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Overview/Page_FakeDoor/input_Password_password'), 'Lm1Albv1LteQ2KmNJoEiNQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/input_Password_password'), 'Lm1Albv1LteQ2KmNJoEiNQ==')
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/button_Login'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/span_Overview'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/span_Overview'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/p_Start Lesson'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/p_Start Lesson'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6_7'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6_7'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6_7_8'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/img_Back_MuiBox-root mui-style-1f4e7rj_1_2_3_4_5_6_7_8'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/button_Back'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/button_Back'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/button_Back'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/button_Back'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/button_Back'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/button_Back'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/button_Back'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/button_Back'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/button_Back'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/button_Back'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/button_Back'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/button_Back'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/button_Back'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/button_Back'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/button_Back'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/button_Back'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/button_Back'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/button_Back'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/button_Back'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/button_Back'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/p_Reminder'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/p_Reminder'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/span_Overview'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/span_Overview'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/p_Reminder'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/p_Reminder'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/span_Overview'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/span_Overview'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/button_Overview_MuiButtonBase-root MuiIconB_eec332'))
 
-WebUI.click(findTestObject('Object Repository/Overview/Page_FakeDoor/span_Logout'))
+WebUI.click(findTestObject('Object Repository/Buttons/Overview/Page_FakeDoor/span_Logout'))
 
 WebUI.closeBrowser()
 
